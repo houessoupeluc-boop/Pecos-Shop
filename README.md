@@ -1,108 +1,32 @@
 # Pecos-Shop
 Boutique spécialisée dans la vente des iPhones et PC de qualité
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Péco's Shop - Téléphones et PC au Bénin</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            background-color: #f8f8f8;
-            color: #333;
-        }
-        header {
-            background-color: #000;
-            color: gold;
-            padding: 20px;
-            text-align: center;
-            font-size: 1.8em;
-            font-weight: bold;
-        }
-        nav {
-            background-color: #333;
-            display: flex;
-            justify-content: center;
-        }
-        nav a {
-            color: white;
-            padding: 10px 20px;
-            text-decoration: none;
-        }
-        nav a:hover {
-            background-color: gold;
-            color: black;
-        }
-        main {
-            max-width: 900px;
-            margin: auto;
-            padding: 20px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
-        }
-        h2 {
-            color: #222;
-        }
-        .contact {
-            margin-top: 20px;
-            padding: 15px;
-            background: gold;
-            text-align: center;
-            border-radius: 6px;
-            font-size: 1.2em;
-        }
-        .contact a {
-            text-decoration: none;
-            color: black;
-            font-weight: bold;
-        }
-        footer {
-            background: #000;
-            color: white;
-            padding: 15px;
-            text-align: center;
-            margin-top: 30px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        Péco's Shop - Toujours disponible quand il le faut !
-    </header>
+# **Péco’s Shop – Toujours disponible quand il le faut !**
 
-    <nav>
-        <a href="#">Accueil</a>
-        <a href="#">Produits</a>
-        <a href="#">Contact</a>
-    </nav>
+Chez **Péco’s Shop**, nous croyons que la technologie doit être **accessible, performante et élégante**. Situés au cœur de Parakou, nous sommes spécialisés dans la vente de **téléphones et ordinateurs portables de marques reconnues** : les **iPhones** pour leur design intemporel et leurs performances inégalées, et les **PC HP** pour leur fiabilité et leur efficacité dans toutes les situations.
 
-    <main>
-        <h2>Bienvenue chez Péco's Shop</h2>
-        <p>
-            Située à Parakou, Bénin, <strong>Péco's Shop</strong> est votre boutique de confiance spécialisée dans la vente de
-            <strong>téléphones (iPhones)</strong> et <strong>ordinateurs portables (HP)</strong>.
-            Nous offrons des produits de qualité, à prix abordables, avec une livraison rapide.
-        </p>
+### **Notre mission**
 
-        <h2>Nos Avantages</h2>
-        <ul>
-            <li>📱 Produits haut de gamme et authentiques</li>
-            <li>⚡ Livraison rapide dans tout le Bénin</li>
-            <li>💰 Prix compétitifs</li>
-            <li>🤝 Proche de nos clients</li>
-        </ul>
+Apporter à chaque client le produit idéal, au bon prix et au bon moment. Nous savons qu’un téléphone ou un ordinateur n’est pas seulement un objet : c’est un **outil indispensable** pour communiquer, travailler, apprendre, créer et se divertir.
 
-        <div class="contact">
-            📞 Contactez-nous directement sur WhatsApp : 
-            <a href="https://wa.me/229151260648" target="_blank">+229 01 51 26 06 48</a>
-        </div>
-    </main>
+### **Pourquoi choisir Péco’s Shop ?**
 
-    <footer>
-        © 2025 Péco's Shop - Tous droits réservés
-    </footer>
-</body>
-</html>
+* **Disponibilité totale** : nous sommes là quand vous avez besoin de nous, sans attendre.
+* **Livraison rapide** à Parakou et environs, pour que votre produit arrive en un temps record.
+* **Prix abordables** : la qualité premium n’a pas besoin de coûter une fortune.
+* **Proximité** : nous sommes proches de nos clients, à l’écoute et toujours prêts à conseiller.
+
+### **Nos produits**
+
+* **iPhones** : du modèle récent au classique, tous authentiques et garantis.
+* **PC HP** : portables fiables, puissants et adaptés à tous les usages, de l’étudiant au professionnel.
+
+### **Notre engagement qualité**
+
+Chaque appareil vendu est soigneusement vérifié pour garantir **l’authenticité**, **la performance** et **la durabilité**. Chez nous, pas de compromis sur la satisfaction du client.
+
+---
+
+📍 **Localisation** : Parakou, Bénin
+📦 **Service** : Vente – Livraison rapide – Assistance client
+💬 **Contactez-nous** : \[Numéro / WhatsApp]
+
