@@ -28,5 +28,5 @@ Chaque appareil vendu est soigneusement vérifié pour garantir **l’authentici
 
 📍 **Localisation** : Parakou, Bénin
 📦 **Service** : Vente – Livraison rapide – Assistance client
-💬 **Contactez-nous** : \[Numéro / WhatsApp]
+💬 **Contactez-nous** : \[01 51 26 06 48]
 
